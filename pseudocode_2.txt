@@ -1,0 +1,13 @@
+
+define the calculate tax function with amount and tax rate arguments
+    tax equals amount multiplied by tax rate
+    returns the tax value
+
+prompt the user for the total sales for the month
+
+county tax equals the total sales and 0.025 passed into the calculate tax function
+state tax equals the total sales and 0.05 passed into the calculate tax function
+
+display county tax
+display state tax
+display total tax, which is county tax plus state tax
